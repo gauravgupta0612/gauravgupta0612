@@ -56,56 +56,6 @@ Senior Software Engineer with **5+ years of experience** building scalable solut
 
 ---
 
-## 📊 Professional Journey
-
-### 🏢 Senior Software Engineer
-**ARCAD Software** | Dec 2025 - Present | 3 months
-- Java Development & Architecture
-- VS Code Extension Development
-- TypeScript & React Full-Stack Solutions
-- AI/LLM Integration & Implementation
-
-### 💻 Software Engineer
-**ARCAD Software** | Jul 2023 - Dec 2025 | 2 years 6 months
-- Led Java development initiatives
-- GitHub/GitLab repository management
-- Technical mentorship & code reviews
-- 13+ Technical Stack Expertise
-
-### 🎨 Salesforce Consultant
-**Multiple Organizations** | Oct 2020 - Jul 2022
-- **Delhivery** | Nov 2021 - Jul 2022 (9 months)
-- **C&S ELECTRIC LTD** | Oct 2020 - Sep 2021 (1 year)
-- Salesforce Administration & Customization
-- Lightning Component Development
-- Sales Cloud & Service Cloud Implementation
-
-### 🚀 Freelance Developer
-**Freelancer.com** | Oct 2022 - Jun 2025 | 2 years 9 months
-- Salesforce Development Projects
-- Lightning Components & Apex Programming
-- Client-focused Solution Architecture
-
----
-
-## 🎓 Education & Certifications
-
-### Education
-- **MCA** - Information Technology | Institute of Management Studies, Ghaziabad (2018-2020)
-- **BCA** - Information Technology | Invertis University (2015-2018)
-
-### Professional Certifications
-- ✅ **Copado Certified Developer** (2021)
-- ✅ **Copado Certified Administrator** (2021)
-- ✅ **OCI 2025 AI Foundations Associate** (Oracle) - Sep 2025
-- ✅ **OCI 2025 Data Science Professional** (Oracle) - Sep 2025
-- ✅ **IBM i Ready** (IBM) - Sep 2025
-- ✅ **Artificial Intelligence Fundamentals** (IBM) - Sep 2025
-- ✅ **Google Analytics Academy Certified** - Sep 2025
-- ✅ **CCC** (NIELIT) - Expires Jan 2027
-
----
-
 ## 🔥 Featured Projects
 
 ### 💡 Salesforce CRM Solutions
