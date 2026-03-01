@@ -107,11 +107,9 @@ Intelligent conversational solutions leveraging LLMs
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauravgupta0612&theme=dark&background=0D1117)
 
-### Top Languages Used
-![Salesforce](https://img.shields.io/badge/Salesforce-50%25-00A1E0?style=flat-square)
-![Java](https://img.shields.io/badge/Java-25%25-ED8B00?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=flat-square)
-![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravgupta0612&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/gauravgupta0612)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&theme=dark&hide_border=true&layout=compact)](https://github.com/gauravgupta0612)
 
 </div>
 
