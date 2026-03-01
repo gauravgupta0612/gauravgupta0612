@@ -31,16 +31,23 @@ Senior Software Engineer with **6+ years of experience** building scalable solut
 
 ## 💼 Technical Skills
 
-### Backend & Cloud
+### Salesforce Specialization
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Heroku Connect](https://img.shields.io/badge/Heroku%20Connect-430098?style=flat&logo=heroku&logoColor=white)
+![Profile & Permissions](https://img.shields.io/badge/Profile%20%26%20Permissions-00A1E0?style=flat&logo=salesforce&logoColor=white)
+
+### Backend & Cloud
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Lightning](https://img.shields.io/badge/Lightning-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 
 ### DevOps & Tools
@@ -49,10 +56,11 @@ Senior Software Engineer with **6+ years of experience** building scalable solut
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Specialized Areas
+### Others Areas
 ![AI/LLM](https://img.shields.io/badge/AI/LLM-FF6B6B?style=flat)
 ![Chatbot Development](https://img.shields.io/badge/Chatbot-00B4D8?style=flat)
 ![CRM](https://img.shields.io/badge/CRM-00A1E0?style=flat)
+![Enterprise Integration](https://img.shields.io/badge/Enterprise%20Integration-FF6B6B?style=flat)
 
 ---
 
