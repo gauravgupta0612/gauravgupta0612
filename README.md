@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gaurav Gupta
 
-**Senior Software Engineer | Salesforce Specialist | Full-Stack Developer**
+**Senior Software Engineer | Salesforce Specialist | Full-Stack Developer | Heroku Connect | Community Memmber**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gauravgupta0612-black?style=for-the-badge&logo=github)](https://github.com/gauravgupta0612)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gauravgupta0612)
@@ -12,9 +12,9 @@
 
 ## 🎯 About Me
 
-Senior Software Engineer with **5+ years of experience** building scalable solutions across Salesforce, Java, and modern web technologies. I'm a **Salesforce Trailhead All Star Ranger** with expertise in Lightning Aura Components, Apex, and AI/LLM integration. Currently at **ARCAD Software**, leading development initiatives in Java, VS Code extensions, and AI-driven solutions.
+Senior Software Engineer with **6+ years of experience** building scalable solutions across Salesforce, Java, and modern web technologies. I'm a **Salesforce Trailhead All Star Ranger** with expertise in Lightning Aura Components, Apex, and AI/LLM integration. Currently at **ARCAD Software**, leading development initiatives in Java, VS Code extensions, and AI-driven solutions.
 
-📍 Noida, Uttar Pradesh, India | 🚀 Open to Opportunities
+📍 Lucknow, Uttar Pradesh, India | 🚀 Open to Opportunities
 
 ---
 
