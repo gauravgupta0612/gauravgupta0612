@@ -107,9 +107,11 @@ Intelligent conversational solutions leveraging LLMs
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gauravgupta0612&theme=dark)](https://github.com/gauravgupta0612)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravgupta0612&theme=dark&show_icons=true&count_private=true)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauravgupta0612&theme=dark-dimmed&bg_color=0D1117&color=58A6FF&line=79C0FF&point=58A6FF&hide_border=true)](https://github.com/gauravgupta0612)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&theme=dark&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gauravgupta0612&theme=dark)
 
 </div>
 
