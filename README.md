@@ -174,7 +174,7 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:gaurav@example.com)
+[![Email](https://img.shields.io/badge/Email-ggupta865@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ggupta865@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gauravgupta0612)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/gauravgupta0612)
 [![Twitter](https://img.shields.io/badge/Twitter-@ggupa865-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ggupa865)
