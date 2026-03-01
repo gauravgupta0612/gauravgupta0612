@@ -105,11 +105,11 @@ Intelligent conversational solutions leveraging LLMs
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gauravgupta0612&theme=dark&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=gauravgupta0612&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravgupta0612&theme=dark&show_icons=true&hide_border=false&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=79C0FF&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=gauravgupta0612&theme=dark&show_icons=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&theme=dark&hide_border=false&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&theme=dark&layout=compact" alt="Top Languages" />
 
 </div>
 
