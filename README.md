@@ -23,6 +23,7 @@ My professional focus includes:
 
 - Salesforce development and CRM solutions
 - Enterprise Java applications
+- REST APIs and enterprise integrations
 - VS Code extension development
 - AI and LLM integrations
 - Full-stack web development
@@ -37,7 +38,7 @@ Currently working at **ARCAD Software**, contributing to **developer tools, mode
 |--------|---------|
 | **Experience** | 6+ Years in Enterprise Software Development |
 | **Salesforce Trailblazer** | 213 Badges • 83,875 Points • 25 Trails |
-| **Core Expertise** | Salesforce, Java, TypeScript, AI Integration |
+| **Core Expertise** | Salesforce, Java, TypeScript, REST APIs, AI Integration |
 | **Certifications** | Copado Admin & Developer, OCI Associate, IBM Certified |
 
 ---
@@ -71,11 +72,34 @@ Key skills include:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 
 - Enterprise Java Development
-- REST API development
-- Microservices architecture
-- Backend integrations
+- REST API Design & Development
+- Microservices Architecture
+- Backend Service Integration
+- API Authentication & Security
+- Server-side application development
+
+---
+
+## API & System Integration
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat)
+![Integration](https://img.shields.io/badge/System%20Integration-4CAF50?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json)
+
+Experience designing and integrating enterprise systems using modern API-driven architectures.
+
+Key capabilities include:
+
+- REST API consumption and integration
+- JSON / HTTP based services
+- Microservices communication
+- Enterprise system integrations
+- Salesforce API integrations
+- External service connectivity
+- Backend orchestration
 
 ---
 
@@ -205,6 +229,7 @@ https://medium.com/@gauravgupta0612
 I’m always open to collaboration on:
 
 - Salesforce development
+- REST API & Integration projects
 - AI & LLM solutions
 - Developer tools
 - VS Code extensions
