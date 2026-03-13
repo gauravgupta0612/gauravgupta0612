@@ -2,7 +2,10 @@
 
 # 👋 Hi, I'm Gaurav Gupta
 
-**Senior Software Engineer | Salesforce Specialist | Full-Stack Developer | Heroku Connect | Community Memmber**
+### Senior Software Engineer | Salesforce Specialist | Java & Full-Stack Developer | AI & Developer Tools
+
+📍 Lucknow, Uttar Pradesh, India  
+🚀 Building scalable enterprise solutions and developer productivity tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-gauravgupta0612-black?style=for-the-badge&logo=github)](https://github.com/gauravgupta0612)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gauravgupta0612)
@@ -10,134 +13,210 @@
 
 </div>
 
-## 🎯 About Me
+---
 
-Senior Software Engineer with **6+ years of experience** building scalable solutions across Salesforce, Java, and modern web technologies. I'm a **Salesforce Trailhead All Star Ranger** with expertise in Lightning Aura Components, Apex, and AI/LLM integration. Currently at **ARCAD Software**, leading development initiatives in Java, VS Code extensions, and AI-driven solutions.
+# 💡 About Me
 
-📍 Lucknow, Uttar Pradesh, India | 🚀 Open to Opportunities
+I am a **Senior Software Engineer with 6+ years of experience** building enterprise-grade applications and scalable software solutions.
+
+My professional focus includes:
+
+- Salesforce development and CRM solutions
+- Enterprise Java applications
+- VS Code extension development
+- AI and LLM integrations
+- Full-stack web development
+
+Currently working at **ARCAD Software**, contributing to **developer tools, modernization platforms, and AI-driven solutions**.
 
 ---
 
-## 🏆 Key Achievements
+# 🏆 Professional Highlights
 
-| Metric | Achievement |
-|--------|-------------|
+| Category | Details |
+|--------|---------|
+| **Experience** | 6+ Years in Enterprise Software Development |
 | **Salesforce Trailblazer** | 213 Badges • 83,875 Points • 25 Trails |
-| **Experience** | 5+ Years in Enterprise Software Development |
-| **Expertise** | Salesforce, Java, TypeScript, React, AI/LLMs |
+| **Core Expertise** | Salesforce, Java, TypeScript, AI Integration |
 | **Certifications** | Copado Admin & Developer, OCI Associate, IBM Certified |
 
 ---
 
-## 💼 Technical Skills
+# 🛠 Technical Skills
 
-### Salesforce Specialization
+## Salesforce Ecosystem
+
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![VisualForce](https://img.shields.io/badge/VisualForce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Heroku Connect](https://img.shields.io/badge/Heroku%20Connect-430098?style=flat&logo=heroku&logoColor=white)
-![Profile & Permissions](https://img.shields.io/badge/Profile%20%26%20Permissions-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku%20Connect-430098?style=flat&logo=heroku&logoColor=white)
 
-### Backend & Cloud
+Key skills include:
+
+- Apex Development
+- Lightning Web Components (LWC)
+- Aura Components
+- Visualforce
+- Salesforce Flows & Automation
+- SOQL / SOSL
+- Profiles & Permissions
+- Heroku Connect Integration
+
+---
+
+## Backend Development
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Frontend & UI
+- Enterprise Java Development
+- REST API development
+- Microservices architecture
+- Backend integrations
+
+---
+
+## Frontend Development
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 
-### DevOps & Tools
+- React applications
+- TypeScript development
+- Modern web UI design
+
+---
+
+## DevOps & Tools
+
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Others Areas
-![AI/LLM](https://img.shields.io/badge/AI/LLM-FF6B6B?style=flat)
-![Chatbot Development](https://img.shields.io/badge/Chatbot-00B4D8?style=flat)
-![CRM](https://img.shields.io/badge/CRM-00A1E0?style=flat)
-![Enterprise Integration](https://img.shields.io/badge/Enterprise%20Integration-FF6B6B?style=flat)
+- GitHub / GitLab
+- CI/CD pipelines
+- VS Code Extension development
+- Docker containers
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 💡 Salesforce CRM Solutions
-Advanced Salesforce implementations focused on business process automation
-- Lightning Aura Components & Apex Controllers
-- Complex workflow & validation rule architecture
-- Multi-org integration solutions
-- **Tech:** Salesforce, Apex, Lightning, SOQL
+## Salesforce CRM Solutions
 
-### ☕ Java Plugin Development
-Enterprise-grade plugin architecture for IBM i systems
-- Scalable plugin framework design
-- IBM i systems integration
-- Configuration management systems
-- **Tech:** Java, IBM i, Maven, XML
+Enterprise Salesforce implementations designed to automate complex business workflows.
 
-### 🔧 VS Code Extension Development
-Productivity-enhancing developer tools
-- TypeScript-based extension architecture
-- Modern React UI components
+**Highlights**
+
+- Apex Controllers
+- Lightning Aura Components
+- Workflow automation
+- Multi-org integration
+
+**Technology**
+
+Salesforce • Apex • Lightning • SOQL
+
+---
+
+## Java Plugin Development
+
+Enterprise plugin development for **IBM i modernization platforms**.
+
+**Highlights**
+
+- Modular plugin architecture
+- Enterprise system integration
+- Configuration management
+
+**Technology**
+
+Java • Maven • XML • IBM i
+
+---
+
+## VS Code Extension Development
+
+Developer productivity tools designed to improve development workflows.
+
+**Highlights**
+
+- TypeScript extension architecture
+- React UI components
 - Performance optimization
-- **Tech:** TypeScript, VS Code API, React, Node.js
 
-### 🤖 AI-Driven Chatbot Solutions
-Intelligent conversational solutions leveraging LLMs
-- Multi-model LLM integration
-- Natural language processing pipelines
-- Real-time response optimization
-- **Tech:** Python, LLMs, AI, Chatbot Framework
+**Technology**
+
+TypeScript • React • VS Code API • Node.js
 
 ---
 
-## 📝 Latest Blog Posts
+## AI-Driven Chatbot Solutions
 
-| Date | Article | Read Time |
-|------|---------|-----------|
-| Mar 1, 2026 | **Mastering Salesforce Lightning Development** | 8 min |
-| Feb 25, 2026 | **Building AI-Powered Chatbots with LLMs** | 10 min |
-| Feb 18, 2026 | **VS Code Extension Development: A Complete Guide** | 7 min |
-| Feb 10, 2026 | **Java Development Best Practices** | 9 min |
+Intelligent conversational systems built using modern **Large Language Models (LLMs)**.
 
-📖 [View All Articles →](https://medium.com/@gauravgupta0612)
+**Highlights**
+
+- LLM integrations
+- NLP pipelines
+- Real-time response systems
+
+**Technology**
+
+Python • AI APIs • Chatbot frameworks
 
 ---
 
-## 📈 GitHub Stats
+# ✍️ Technical Articles
+
+| Date | Article |
+|-----|--------|
+| Mar 2026 | Mastering Salesforce Lightning Development |
+| Feb 2026 | Building AI-Powered Chatbots with LLMs |
+| Feb 2026 | VS Code Extension Development Guide |
+| Feb 2026 | Java Development Best Practices |
+
+📖 Read more:  
+https://medium.com/@gauravgupta0612
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravgupta0612&show_icons=true&theme=nord&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&theme=nord&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta0612&layout=compact&theme=nord&hide_border=true)
 
-![Streak Stats](https://streak-stats.demolab.com?user=gauravgupta0612&theme=nord)
+![GitHub Streak](https://streak-stats.demolab.com?user=gauravgupta0612&theme=nord)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+# 🤝 Let's Connect
 
-I'm always interested in collaborating on:
-- ✨ Salesforce Solutions & Lightning Development
-- 🚀 Full-Stack Development Projects
-- 🤖 AI/LLM Applications
-- 📦 VS Code Extensions
-- 💼 Enterprise Software Architecture
+I’m always open to collaboration on:
+
+- Salesforce development
+- AI & LLM solutions
+- Developer tools
+- VS Code extensions
+- Enterprise architecture
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ggupta865@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ggupta865@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gauravgupta0612)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/gauravgupta0612)
-[![Twitter](https://img.shields.io/badge/Twitter-@ggupa865-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ggupa865)
 
 </div>
 
@@ -145,7 +224,7 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+⭐ If you find my work useful, consider **starring my repositories**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gauravgupta0612&style=flat-square&color=blue)
 
